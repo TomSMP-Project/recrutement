@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Under-scape/discordbot-ts-template.git"
+    "url": "git+https://github.com/TomSMP-Project/recrutement.git"
   },
   "keywords": [
     "discordjs",
     "typescript",
     "bot"
   ],
-  "author": "TheDreWen",
+  "author": "RedSavantMC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Under-scape/discordbot-ts-template/issues"
+    "url": "https://github.com/TomSMP-Project/recrutement/issues"
   },
-  "homepage": "https://github.com/Under-scape/discordbot-ts-template#readme",
+  "homepage": "https://github.com/TomSMP-Project/recrutement.git#readme",
   "devDependencies": {
     "typescript": "^5.9.2"
   },
