@@ -1,5 +1,5 @@
 {
-  "name": "discordbot-ts-template",
+  "name": "recrutement-discord-bot",
   "version": "1.0.0",
   "description": "Template for an discord bot project with typescript.",
   "main": "dist/index.js",
