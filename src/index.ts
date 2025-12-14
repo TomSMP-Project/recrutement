@@ -630,6 +630,7 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
+
 // Gestion de l'ajout de champs
 client.on('interactionCreate', async interaction => {
   if (!interaction.isModalSubmit()) return;
